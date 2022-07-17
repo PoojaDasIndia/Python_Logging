@@ -1,0 +1,72 @@
+2022-05-29 20:07:5608 - INFO:20 | The addition of number is 13
+
+2022-05-29 20:07:5608 - WARNING:30 | The mulitiplication of number is 20 
+
+2022-05-29 20:07:5608 - DEBUG:10 | This is debug
+2022-05-29 20:07:5608 - INFO:20 | This is info
+2022-05-29 20:07:5608 - WARNING:30 | This is warning
+2022-05-29 20:07:5608 - ERROR:40 | This is error
+2022-05-29 20:07:5608 - CRITICAL:50 | This is critical
+2022-05-29 20:11:55 PM - INFO:20 | The addition of number is 13
+
+2022-05-29 20:11:55 PM - WARNING:30 | The mulitiplication of number is 20 
+
+2022-05-29 20:11:55 PM - DEBUG:10 | This is debug
+2022-05-29 20:11:55 PM - INFO:20 | This is info
+2022-05-29 20:11:55 PM - WARNING:30 | This is warning
+2022-05-29 20:11:55 PM - ERROR:40 | This is error
+2022-05-29 20:11:55 PM - CRITICAL:50 | This is critical
+2022-May-29 - Sunday - 20:13:58 PM - INFO:20 | The addition of number is 13
+
+2022-May-29 - Sunday - 20:13:58 PM - WARNING:30 | The mulitiplication of number is 20 
+
+2022-May-29 - Sunday - 20:13:58 PM - DEBUG:10 | This is debug
+2022-May-29 - Sunday - 20:13:58 PM - INFO:20 | This is info
+2022-May-29 - Sunday - 20:13:58 PM - WARNING:30 | This is warning
+2022-May-29 - Sunday - 20:13:58 PM - ERROR:40 | This is error
+2022-May-29 - Sunday - 20:13:58 PM - CRITICAL:50 | This is critical
+29-May-22 | Sunday | 20:15:20 PM - INFO:20 | The addition of number is 13
+
+29-May-22 | Sunday | 20:15:20 PM - WARNING:30 | The mulitiplication of number is 20 
+
+29-May-22 | Sunday | 20:15:20 PM - DEBUG:10 | This is debug
+29-May-22 | Sunday | 20:15:20 PM - INFO:20 | This is info
+29-May-22 | Sunday | 20:15:20 PM - WARNING:30 | This is warning
+29-May-22 | Sunday | 20:15:20 PM - ERROR:40 | This is error
+29-May-22 | Sunday | 20:15:20 PM - CRITICAL:50 | This is critical
+29-May-22 | Sunday | 20:20:19 PM - INFO:20 | The addition of number is 13
+
+29-May-22 | Sunday | 20:20:19 PM - INFO:20 | The mulitiplication of number is 20 
+
+29-May-22 | Sunday | 20:20:19 PM - DEBUG:10 | This is debug
+29-May-22 | Sunday | 20:20:19 PM - INFO:20 | This is info
+29-May-22 | Sunday | 20:20:19 PM - WARNING:30 | This is warning
+29-May-22 | Sunday | 20:20:19 PM - ERROR:40 | This is error
+29-May-22 | Sunday | 20:20:19 PM - CRITICAL:50 | This is critical
+29-May-22 | Sunday | 20:21:40 PM - INFO:20 | The addition of number is 13
+
+29-May-22 | Sunday | 20:21:40 PM - INFO:20 | The mulitiplication of number is 20 
+
+29-May-22 | Sunday | 20:21:40 PM - DEBUG:10 | This is debug
+29-May-22 | Sunday | 20:21:40 PM - INFO:20 | This is info
+29-May-22 | Sunday | 20:21:40 PM - WARNING:30 | This is warning
+29-May-22 | Sunday | 20:21:40 PM - ERROR:40 | This is error
+29-May-22 | Sunday | 20:21:40 PM - CRITICAL:50 | This is critical
+19-June-22 | Sunday | 23:56:54 PM - INFO:20 | The addition of number is 12
+
+19-June-22 | Sunday | 23:56:54 PM - INFO:20 | The mulitiplication of number is 12 
+
+19-June-22 | Sunday | 23:56:54 PM - DEBUG:10 | This is debug
+19-June-22 | Sunday | 23:56:54 PM - INFO:20 | This is info
+19-June-22 | Sunday | 23:56:54 PM - WARNING:30 | This is warning
+19-June-22 | Sunday | 23:56:54 PM - ERROR:40 | This is error
+19-June-22 | Sunday | 23:56:54 PM - CRITICAL:50 | This is critical
+19-June-22 | Sunday | 23:58:04 PM - INFO:20 | The addition of number is 12
+
+19-June-22 | Sunday | 23:58:04 PM - INFO:20 | The mulitiplication of number is 12 
+
+19-June-22 | Sunday | 23:58:04 PM - DEBUG:10 | This is debug
+19-June-22 | Sunday | 23:58:04 PM - INFO:20 | This is info
+19-June-22 | Sunday | 23:58:04 PM - WARNING:30 | This is warning
+19-June-22 | Sunday | 23:58:04 PM - ERROR:40 | This is error
+19-June-22 | Sunday | 23:58:04 PM - CRITICAL:50 | This is critical

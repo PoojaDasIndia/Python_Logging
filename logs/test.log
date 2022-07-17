@@ -1,0 +1,28 @@
+01-July-22 | Friday | 12:38:25 PM - INFO:20 | Function for doing division of two numbers...
+01-July-22 | Friday | 12:38:25 PM - INFO:20 | The number enter by user is 10 and 5
+01-July-22 | Friday | 12:38:25 PM - INFO:20 | We are inside Function block...
+01-July-22 | Friday | 12:38:25 PM - INFO:20 | We are completed a division operation
+01-July-22 | Friday | 12:38:25 PM - INFO:20 | Result of code is 2.0 
+01-July-22 | Friday | 12:39:02 PM - INFO:20 | Function for doing division of two numbers...
+01-July-22 | Friday | 12:39:02 PM - INFO:20 | The number enter by user is 10 and 0
+01-July-22 | Friday | 12:39:02 PM - INFO:20 | We are inside Function block...
+01-July-22 | Friday | 12:39:02 PM - ERROR:40 | division by zero
+01-July-22 | Friday | 12:39:02 PM - ERROR:40 | division by zero
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\Python\Python_Logging\LoggingDemo\ineuron log\test.py", line 18, in divide
+    div = a / b
+ZeroDivisionError: division by zero
+01-July-22 | Friday | 12:40:08 PM - INFO:20  - 14| Function for doing division of two numbers...
+01-July-22 | Friday | 12:40:08 PM - INFO:20  - 15| The number enter by user is 10 and 0
+01-July-22 | Friday | 12:40:08 PM - INFO:20  - 17| We are inside Function block...
+01-July-22 | Friday | 12:40:08 PM - ERROR:40  - 22| division by zero
+01-July-22 | Friday | 12:40:08 PM - ERROR:40  - 23| division by zero
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\Python\Python_Logging\LoggingDemo\ineuron log\test.py", line 18, in divide
+    div = a / b
+ZeroDivisionError: division by zero
+01-July-22 | Friday | 12:40:47 PM - INFO:20  - 14| Function for doing division of two numbers...
+01-July-22 | Friday | 12:40:47 PM - INFO:20  - 15| The number enter by user is 10 and 100
+01-July-22 | Friday | 12:40:47 PM - DEBUG:10  - 17| We are inside Function block...
+01-July-22 | Friday | 12:40:47 PM - INFO:20  - 19| We are completed a division operation
+01-July-22 | Friday | 12:40:47 PM - INFO:20  - 20| Result of code is 0.1 
